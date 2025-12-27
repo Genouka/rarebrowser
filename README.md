@@ -7,6 +7,8 @@
 
 适配WearOS系统和Android系统的多功能手表浏览器
 
+[官网](https://rare.genouka.top/rarebrowser)
+
 ## 特性
 
 * [x] 支持WearOS系统（目前大部分手表浏览器都不能支持）。
