@@ -11,6 +11,10 @@
 
 [官网（付费版）](https://rpbr.genouka.top/)
 
+
+## 更新日志
+[更新日志](updatelog.txt)
+
 ## 特性
 
 * [x] 支持WearOS系统（目前大部分手表浏览器都不能支持）。
